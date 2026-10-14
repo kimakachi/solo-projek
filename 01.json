@@ -4,5 +4,14 @@
   "artist": "Kakuin",
   "author": "kaede7",
   "cover": "https://mangadex.org/covers/68d0f13d-2520-4903-92dc-6897e704be75/ab3aad92-6691-4a60-ae4e-fce38d4126d5.jpg",
-  "chapters": {}
+  "chapters": {
+    "6": {
+      "title": "Chapter 6",
+      "volume": "",
+      "last_updated": "1791948544",
+      "groups": {
+        "Solo_Project": "/proxy/api/imgchest/chapter/9p4npedkmyn"
+      }
+    }
+  }
 }
